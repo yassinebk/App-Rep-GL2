@@ -23,7 +23,6 @@ public class ThreadClient extends Thread {
         } catch (Exception exception) {
             exception.getStackTrace();
         }
-
     }
 
     private String message_suivant() {
